@@ -1,0 +1,4 @@
+a="MANIKANNA is doind Engg"
+b=a.find("egfhft")
+c=a. count("a")
+print(c)
